@@ -13,7 +13,7 @@ public class MyGdxGame extends ApplicationAdapter {
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
-		img = new Texture("badlogic.jpg");
+		img = new Texture("Mushroom expansion/Backgrounds/bg_grasslands.png");
 	}
 
 	@Override
