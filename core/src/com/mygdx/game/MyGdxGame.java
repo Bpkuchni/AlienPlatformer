@@ -16,6 +16,8 @@ public class MyGdxGame extends ApplicationAdapter {
 		img = new Texture("Mushroom expansion/Backgrounds/bg_grasslands.png");
 	}
 
+	int x = 5; //Gonna practice committing
+	
 	@Override
 	public void render () {
 		Gdx.gl.glClearColor(1, 0, 0, 1);
