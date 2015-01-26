@@ -1,4 +1,5 @@
-AlienPlatformer
-===============
+PRIORITY LIST
+=============
 
-Alien Platformer. On ice. Its nice.
+1. Game Design Document 
+2. Code
